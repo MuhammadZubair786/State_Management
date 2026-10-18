@@ -4,7 +4,7 @@ const App = () => {
   return (
     <div>
 
-      <h1>State Manage</h1>
+      <h1>State Manage new code</h1>
       <Todo />
     </div>
   )
